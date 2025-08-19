@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá, o nome cujo meus criadores batizaram-me foi de Daniel, há 17 anos vivo neste planeta chamado Terra👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker-03&layout=compact&theme=gruvbox)](https://github.com/skywalker-03/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywalker-03&show_icons=true&theme=gruvbox)
 <!--
 **skywalker-03/skywalker-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
