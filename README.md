@@ -1,5 +1,7 @@
 ## Olá, o nome cujo meus criadores batizaram-me foi de Daniel, há 17 anos vivo neste planeta chamado Terra👋
 
+## Sou um estudante do IFCE-Campus Aracati e estou fazendo o 2° ano do Técnico Em Informática. Meu objetivo é melhorar minhas habilidades de programação. 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skywalker-03&layout=compact&theme=gruvbox)](https://github.com/skywalker-03/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skywalker-03&show_icons=true&theme=gruvbox)
